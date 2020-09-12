@@ -15,7 +15,7 @@
 - `pip install -r requirements.txt`
 - `python cristalixRPC.py`
 #### Linux
-- Установите Python 3.7 и выше, командами: Python 3.7 - `apt install python3-venv python3-pip  python3.7 python3.7-venv`, Python 3.8 - `apt install python3-venv python3-pip  python3.8 python3.8-venv`
+- Установите Python 3.7 или выше, командами: Python 3.7 - `apt install python3-venv python3-pip  python3.7 python3.7-venv`, Python 3.8 - `apt install python3-venv python3-pip  python3.8 python3.8-venv`
 - Скачайте содержимое репозитория, или выполните команду `git clone https://github.com/ethernalsteve/cristalixRPC.git`
 - `сd ./cristalixRPC`
 - `pip install -r requirements.txt`
